@@ -1,0 +1,24 @@
+.dashboard {
+    padding: 20px;
+  }
+  
+  .dashboard h1 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  .dashboard h2 {
+    font-size: 1.5rem;
+    margin-top: 20px;
+  }
+  
+  .dashboard ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .dashboard li {
+    padding: 10px 0;
+    border-bottom: 1px solid #ccc;
+  }
+  
